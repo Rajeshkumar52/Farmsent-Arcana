@@ -45,7 +45,7 @@ public class Runner_Class extends Browser_Setup {
 	    @Test(priority=4)
 	    public void dashboard() throws InterruptedException {
 	    	
-	    	Register_Login.dashboard();
+	    	Token_Send.dashboard();
 	    }
 	    
 		@AfterTest

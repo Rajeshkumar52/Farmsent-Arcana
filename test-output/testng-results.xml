@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-14T15:44:40 IST" name="Default suite" finished-at="2025-07-14T15:46:34 IST" duration-ms="114088">
+  <suite started-at="2025-07-15T11:11:37 IST" name="Default suite" finished-at="2025-07-15T11:13:36 IST" duration-ms="118327">
     <groups>
     </groups>
-    <test started-at="2025-07-14T15:44:40 IST" name="Default test" finished-at="2025-07-14T15:46:34 IST" duration-ms="114088">
+    <test started-at="2025-07-15T11:11:37 IST" name="Default test" finished-at="2025-07-15T11:13:36 IST" duration-ms="118327">
       <class name="User_Dashboard.Runner_Class">
-        <test-method is-config="true" signature="setup()[pri:0, instance:User_Dashboard.Runner_Class@dd8ba08]" started-at="2025-07-14T15:44:40 IST" name="setup" finished-at="2025-07-14T15:44:42 IST" duration-ms="2424" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:User_Dashboard.Runner_Class@dd8ba08]" started-at="2025-07-15T11:11:37 IST" name="setup" finished-at="2025-07-15T11:11:40 IST" duration-ms="2374" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="landing()[pri:1, instance:User_Dashboard.Runner_Class@dd8ba08]" started-at="2025-07-14T15:44:42 IST" name="landing" finished-at="2025-07-14T15:44:53 IST" duration-ms="10183" status="PASS">
+        <test-method signature="landing()[pri:1, instance:User_Dashboard.Runner_Class@dd8ba08]" started-at="2025-07-15T11:11:40 IST" name="landing" finished-at="2025-07-15T11:11:55 IST" duration-ms="15737" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- landing -->
-        <test-method signature="register()[pri:2, instance:User_Dashboard.Runner_Class@dd8ba08]" started-at="2025-07-14T15:44:53 IST" name="register" finished-at="2025-07-14T15:44:54 IST" duration-ms="1717" status="PASS">
+        <test-method signature="register()[pri:2, instance:User_Dashboard.Runner_Class@dd8ba08]" started-at="2025-07-15T11:11:55 IST" name="register" finished-at="2025-07-15T11:11:58 IST" duration-ms="2660" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- register -->
-        <test-method signature="mailOTP()[pri:3, instance:User_Dashboard.Runner_Class@dd8ba08]" started-at="2025-07-14T15:44:54 IST" name="mailOTP" finished-at="2025-07-14T15:46:03 IST" duration-ms="68597" status="PASS">
+        <test-method signature="mailOTP()[pri:3, instance:User_Dashboard.Runner_Class@dd8ba08]" started-at="2025-07-15T11:11:58 IST" name="mailOTP" finished-at="2025-07-15T11:13:05 IST" duration-ms="67067" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mailOTP -->
-        <test-method signature="dashboard()[pri:4, instance:User_Dashboard.Runner_Class@dd8ba08]" started-at="2025-07-14T15:46:03 IST" name="dashboard" finished-at="2025-07-14T15:46:34 IST" duration-ms="31070" status="PASS">
+        <test-method signature="dashboard()[pri:4, instance:User_Dashboard.Runner_Class@dd8ba08]" started-at="2025-07-15T11:13:05 IST" name="dashboard" finished-at="2025-07-15T11:13:36 IST" duration-ms="30436" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- dashboard -->
-        <test-method is-config="true" signature="tesrdown()[pri:0, instance:User_Dashboard.Runner_Class@dd8ba08]" started-at="2025-07-14T15:46:34 IST" name="tesrdown" finished-at="2025-07-14T15:46:34 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="tesrdown()[pri:0, instance:User_Dashboard.Runner_Class@dd8ba08]" started-at="2025-07-15T11:13:36 IST" name="tesrdown" finished-at="2025-07-15T11:13:36 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tesrdown -->
